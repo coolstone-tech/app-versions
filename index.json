@@ -16,5 +16,10 @@
     "version": "1.0.0",
     "download": "https://coolstone.itch.io/webstudio",
     "changelog": ""
+  },
+    "quark": {
+    "version": "1.0.0",
+    "download": "https://coolstone.itch.io/quark",
+    "changelog": ""
   }
 }
